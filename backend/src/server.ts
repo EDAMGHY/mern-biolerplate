@@ -1,6 +1,5 @@
 import express, { Express, Request, Response, Application } from "express";
 import dotenv from "dotenv";
-//Importing .env validation
 
 //For env File
 dotenv.config();
